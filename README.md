@@ -1,4 +1,5 @@
 game-dev unity ex6 - question 1
+
 the changes in the The original game:
 
 1. The spaceship is not directly destroyed when it collides with an enemy, but has 3 "hit points" and only then is it destroyed.
