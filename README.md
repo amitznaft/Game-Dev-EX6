@@ -1,12 +1,10 @@
-# Unity week 2: Prefabs, triggers, coroutines
+game-dev unity ex6 - question 1
+the changes in the The original game:
 
-## Credits
+1. The spaceship is not directly destroyed when it collides with an enemy, but has 3 "hit points" and only then is it destroyed.
 
-Online courses:
-* [The Ultimate Guide to Game Development with Unity 2019](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/), by Jonathan Weinberger
+2. As the player losts his 3 hit points, a "life" ball appears at various points in the game every few seconds, which if the player collides with it gets another point of life. ( only when hit points = 0)
 
-Graphics:
-* [Matt Whitehead](https://ccsearch.creativecommons.org/photos/7fd4a37b-8d1a-4d4c-80a2-4ca4a3839941)
-* [Kenney's space kit](https://kenney.nl/assets/space-kit)
-* [Ductman's 2D Animated Spacehips](https://assetstore.unity.com/packages/2d/characters/2d-animated-spaceships-96852)
-* [Franc from the Noun Project](https://commons.wikimedia.org/w/index.php?curid=64661575)
+3. Explosion effect when the player is destroyed
+
+
